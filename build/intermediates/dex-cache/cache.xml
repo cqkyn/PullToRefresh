@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\code\PullToRefresh\sample\build\intermediates\exploded-aar\PullToRefresh\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99c81240a9ceb264cd73b0b390e2a628d4c8ad1e">
+        <dex dex="D:\Android\code\PullToRefresh\sample\build\intermediates\pre-dexed\debug\PullToRefresh-library-unspecified_5ace683c2b7d750a27107dfeac3fe739342a4b5f.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\code\PullToRefresh\sample\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        jar="D:\Android\code\PullToRefresh\sample\build\intermediates\exploded-aar\PullToRefresh\pullToRefreshListFragment\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ab2d9129e6740a36d38d3d120849865211c5a9a">
+        <dex dex="D:\Android\code\PullToRefresh\sample\build\intermediates\pre-dexed\debug\PullToRefresh-pullToRefreshListFragment-unspecified_2100d5145e0fa7566e09eca53c738af4ac94a41d.jar" />
+    </item>
+    <item
+        jar="D:\Android\code\PullToRefresh\sample\build\intermediates\exploded-aar\PullToRefresh\pullToRefreshViewPager\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c414183ed834f5a12323be809ccaf3006ca6a37f">
+        <dex dex="D:\Android\code\PullToRefresh\sample\build\intermediates\pre-dexed\debug\PullToRefresh-pullToRefreshViewPager-unspecified_e996b2c7d0371687128fd93a01e3292447f64015.jar" />
+    </item>
+
+</items>

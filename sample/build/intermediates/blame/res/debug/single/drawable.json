@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\code\\PullToRefresh\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\Android\\code\\PullToRefresh\\sample\\build\\intermediates\\exploded-aar\\PullToRefresh\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\code\\PullToRefresh\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\Android\\code\\PullToRefresh\\sample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\code\\PullToRefresh\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\Android\\code\\PullToRefresh\\sample\\build\\intermediates\\exploded-aar\\PullToRefresh\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

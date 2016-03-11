@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\code\\PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\Android\\code\\PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullToRefresh\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\code\\PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "D:\\Android\\code\\PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullToRefresh\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\code\\PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "D:\\Android\\code\\PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullToRefresh\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\code\\PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\Android\\code\\PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullToRefresh\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    }
+]
